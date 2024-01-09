@@ -1,0 +1,1259 @@
+html {
+  font-size: 35.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  width: 100%;
+}
+.index-weU {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.index-weU .auto-group-arsr-aBe {
+  margin-bottom: 8.1rem;
+  box-sizing: border-box;
+  padding: 4.6rem 3rem 8.1rem 5.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #683679 14.87%, #69088a 100%);
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .navbar-A3N {
+  width: 100%;
+  margin: 0rem 0rem 4.7rem 0rem;
+  height: 10.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.index-weU .auto-group-arsr-aBe .navbar-A3N .image-2-eUL {
+  height: 10.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-left: 5rem;
+  margin-right: 10px;
+}
+.index-weU .auto-group-arsr-aBe .navbar-A3N .group-18-yFi {
+  justify-content: center;
+  margin: 2.3rem 20rem;
+  display: flex;
+  column-gap: 6.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .navbar-A3N .group-18-yFi .home-JHz {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .navbar-A3N .group-18-yFi .map-CeG {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .navbar-A3N .group-18-yFi .about-wrk {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn {
+  padding: 5rem 0rem;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn .kelompok-3-7ue {
+  background-color: #d9d9d9;
+  margin: 1.5rem 0rem 4rem 5rem;
+  width: 30%;
+  height: 5.1rem;
+  left: 5rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3.1rem;
+}
+.index-weU
+  .auto-group-arsr-aBe
+  .fiest-CXn
+  .sistem-informasi-geografis-sig-yang-telah-kami-rancang-mencakup-lokasi-lokasi-penting-seperti-bank-bni-gedung-fakultas-hukum-taman-vokasi-area-parkir-gps-dan-gedung-graha-pakuan-siliwangi-implementasi-sig-ini-bertujuan-untuk-memberikan-kontribusi-yang-berharga-dalam-memperluas-wawasan-serta-pemetaan-universitas-pakuan-unpak-kBv {
+  margin-left: 5rem;
+  width: 50%;
+  height: 23.9rem;
+  top: 27.1rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn .go-map-hFa {
+  box-sizing: border-box;
+  padding: 2.2rem 2.9rem 2.2rem 2.7rem;
+  width: 36.2rem;
+  height: 9.2rem;
+  left: 0;
+  top: 56rem;
+  background-color: #270d30;
+  border-radius: 2.3rem;
+}
+
+.index-weU .auto-group-arsr-aBe .fiest-CXn .go-map-hFa:hover{
+  border: 2px solid #e8a5ff;
+}
+
+.index-weU .auto-group-arsr-aBe .fiest-CXn .go-map-hFa .group-5-Mqv {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.index-weU
+  .auto-group-arsr-aBe
+  .fiest-CXn
+  .go-map-hFa
+  .group-5-Mqv
+  .vector-62p {
+  margin-right: 1.3rem;
+  width: 3.4rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-arsr-aBe
+  .fiest-CXn
+  .go-map-hFa
+  .group-5-Mqv
+  .go-to-map-now-E92 {
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #f9f7f7;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn .about-SuJ {
+  width: 26.1rem;
+  height: 9.2rem;
+  left: 39.1rem;
+  top: 56rem;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #280e31;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #faf8f8;
+  border-radius: 2.3rem;
+}
+
+
+.asal-ah {
+  margin-left: 5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 30%;
+}
+
+.index-weU
+  .auto-group-arsr-aBe
+  .fiest-CXn
+  .sistem-informasi-geografis-peta-unpak-W8U {
+  margin-left: 5rem;
+  width: 59%;
+  left: 0;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn .illustasi-BVW {
+  width: 70rem;
+  height: 70rem;
+  position: absolute;
+  border-radius: 2.2rem;
+  right: 10rem;
+  top: 5rem;
+  bottom: 5rem;
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn .illustasi-BVW .container-vCC {
+  width: 70rem;
+  height: 70rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.400000006);
+  border-radius: 2.2rem;
+}
+.index-weU .auto-group-arsr-aBe .fiest-CXn .illustasi-BVW .container-PrU {
+  width: 70rem;
+  height: 70rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.2rem;
+}
+.index-weU .lokasi-survey-T5e {
+  margin: 0rem 6.9rem 16.2rem 5.6rem;
+  width: calc(100% - 12.5rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .lokasi-survey-y3z {
+  margin: 0rem 0rem 5rem 1.4rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+  width: 100%;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-vang-cMr {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 7rem;
+  width: 100%;
+  height: 57.6rem;
+  column-gap: 5rem;
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-vang-cMr .card-1-v7e {
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.5rem 1.1rem;
+  width: 50rem;
+  height: 100%;
+  box-shadow: -1rem 1rem 2.23rem rgba(0, 0, 0, 0.25);
+  background-color: #e1d7e4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-1-v7e
+  .group-19-FQp {
+  width: 100%;
+  height: 52.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-1-v7e
+  .group-19-FQp
+  .rectangle-4-BpG {
+  margin-bottom: 2.3rem;
+  width: 47rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-1-v7e
+  .group-19-FQp
+  .bank-bni-7T2 {
+  margin: 0rem 0.2rem 1rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-1-v7e
+  .group-19-FQp
+  .tempat-penyediakan-layanan-perbankan-RCp {
+  margin-left: 0.2rem;
+  max-width: 23.3rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-vang-cMr .card-2-sKi {
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.5rem 1.1rem;
+  margin: 0rem 3rem;
+  width: 50rem;
+  height: 100%;
+  box-shadow: -1rem 1rem 2.23rem rgba(0, 0, 0, 0.25);
+  background-color: #e1d7e4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-2-sKi
+  .group-19-C76 {
+  width: 100%;
+  height: 52.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-2-sKi
+  .group-19-C76
+  .rectangle-4-X9N {
+  margin-bottom: 2.3rem;
+  width: 47rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-2-sKi
+  .group-19-C76
+  .fakultas-hukum-dCQ {
+  margin: 0rem 0.1rem 1rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-2-sKi
+  .group-19-C76
+  .pusat-kegiatan-akademis-hukum-unpak-Y4U {
+  margin-left: 0.2rem;
+  max-width: 27.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-vang-cMr .card-3-Bt8 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.5rem 1.1rem;
+  width: 50rem;
+  height: 100%;
+  box-shadow: -1rem 1rem 2.23rem rgba(0, 0, 0, 0.25);
+  background-color: #e1d7e4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-3-Bt8
+  .group-19-jPr {
+  width: 100%;
+  height: 52.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-3-Bt8
+  .group-19-jPr
+  .rectangle-4-V88 {
+  margin-bottom: 2.3rem;
+  width: 47rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-3-Bt8
+  .group-19-jPr
+  .fakultas-hukum-2Nx {
+  margin: 0rem 0.1rem 1rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-vang-cMr
+  .card-3-Bt8
+  .group-19-jPr
+  .fasilitas-penting-di-kampus-unpak-wVv {
+  margin-left: 0.2rem;
+  max-width: 31.1rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-4ax6-YEp {
+  margin: 0 20.75rem;
+  width: calc(100% - 41.5rem);
+  height: 57.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-4ax6-YEp .card-5-sH6 {
+  margin-right: 5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.2rem 1.5rem 1.1rem;
+  width: 50rem;
+  height: 100%;
+  box-shadow: -1rem 1rem 2.23rem rgba(0, 0, 0, 0.25);
+  background-color: #e1d7e4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-5-sH6
+  .group-19-Q28 {
+  width: 100%;
+  height: 52.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-5-sH6
+  .group-19-Q28
+  .rectangle-4-9VW {
+  margin-bottom: 2.3rem;
+  width: 47rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-5-sH6
+  .group-19-Q28
+  .taman-vokasi-gkL {
+  margin: 0rem 0.2rem 1rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-5-sH6
+  .group-19-Q28
+  .area-santai-mahasiswa-program-vokasi-11v {
+  margin-left: 0.2rem;
+  max-width: 26rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.index-weU .lokasi-survey-T5e .frame-2-UFe .auto-group-4ax6-YEp .card-4-FS4 {
+  box-sizing: border-box;
+  margin-left: 3rem;
+  padding: 1.5rem 1.2rem 1.5rem 1.1rem;
+  width: 50rem;
+  height: 100%;
+  box-shadow: -1rem 1rem 2.23rem rgba(0, 0, 0, 0.25);
+  background-color: #e1d7e4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-4-FS4
+  .group-19-nB6 {
+  width: 100%;
+  height: 52.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.5rem;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-4-FS4
+  .group-19-nB6
+  .rectangle-4-5vt {
+  margin-bottom: 2.3rem;
+  width: 47rem;
+  height: 37.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-4-FS4
+  .group-19-nB6
+  .parkiran-gps-QiG {
+  margin: 0rem 0.1rem 1rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU
+  .lokasi-survey-T5e
+  .frame-2-UFe
+  .auto-group-4ax6-YEp
+  .card-4-FS4
+  .group-19-nB6
+  .parkiran-untuk-mobil-didepan-gedung-gps-wCQ {
+  margin-left: 0.2rem;
+  max-width: 24.4rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.index-weU .auto-group-izcg-BMe {
+  box-sizing: border-box;
+  padding: 7.5rem 8.836rem 13.713rem 8.778rem;
+  width: 100%;
+  height: 70.6rem;
+  background: linear-gradient(180deg, #683679 14.87%, #69088a 100%);
+  flex-shrink: 0;
+}
+.index-weU .auto-group-izcg-BMe .tools-7FJ {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.index-weU .auto-group-izcg-BMe .tools-7FJ .tools-SYU {
+  margin: 0rem 0.041rem 6rem 0rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-izcg-BMe .tools-7FJ .frame-3-Z7J {
+  width: 100%;
+  height: 33.7871rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.index-weU .auto-group-izcg-BMe .tools-7FJ .frame-3-Z7J .illustasi-J4t {
+  margin-right: 7.5rem;
+  width: 33.069rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-J4t
+  .container-CAG {
+  width: 31.8896rem;
+  height: 32.5629rem;
+  position: absolute;
+  left: 1.1794rem;
+  top: 1.2242rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.400000006);
+  border-radius: 2.2rem;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-J4t
+  .container-tHz {
+  width: 31.8896rem;
+  height: 32.5629rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 4.42rem rgba(255, 255, 255, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.2rem;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-J4t
+  .group-22-cDz {
+  width: 20.2rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 2.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-J4t
+  .group-22-cDz
+  .image-3-YdS {
+  width: 20.2rem;
+  height: 20.6rem;
+  position: relative;
+  background-size: 411.111% 192.449%;
+  background-position: -11.5043rem -9.4103rem;
+  background-image: url("../assets/image-3-6Pe.png");
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-J4t
+  .group-22-cDz
+  .qgis-rPE {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #669e37;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-izcg-BMe .tools-7FJ .frame-3-Z7J .illustasi-yik {
+  margin-right: 7.5rem;
+  width: 33.1448rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-yik
+  .container-jT2 {
+  width: 31.8896rem;
+  height: 32.5629rem;
+  position: absolute;
+  left: 1.2552rem;
+  top: 1.2242rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.400000006);
+  border-radius: 2.2rem;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-yik
+  .container-SMS {
+  width: 31.8896rem;
+  height: 32.5629rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 4.42rem rgba(255, 255, 255, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.2rem;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-yik
+  .group-20-Ws6 {
+  width: 21.1rem;
+  height: 26.7rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-yik
+  .group-20-Ws6
+  .image-3-SVr {
+  margin-bottom: 1.1rem;
+  width: 21.1rem;
+  height: 18.7rem;
+  position: relative;
+  background-size: 100% 112.604%;
+  background-position: 0 -1.249rem;
+  background-image: url("../assets/image-3.png");
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-yik
+  .group-20-Ws6
+  .qfield-wxQ {
+  margin-left: 0.0207rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #79ca42;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-izcg-BMe .tools-7FJ .frame-3-Z7J .illustasi-USY {
+  width: 33.1724rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-USY
+  .container-daL {
+  width: 31.8896rem;
+  height: 32.5629rem;
+  position: absolute;
+  left: 1.2828rem;
+  top: 1.2242rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.400000006);
+  border-radius: 2.2rem;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-USY
+  .container-LUk {
+  width: 31.8896rem;
+  height: 32.5629rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 4.42rem rgba(255, 255, 255, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.2rem;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-USY
+  .group-21-Frc {
+  width: 20rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 6rem;
+  top: 1.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-USY
+  .group-21-Frc
+  .image-4-Pxp {
+  margin-bottom: 2.36rem;
+  width: 20rem;
+  height: 19.64rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-izcg-BMe
+  .tools-7FJ
+  .frame-3-Z7J
+  .illustasi-USY
+  .group-21-Frc
+  .vscode-Xp8 {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #1070b3;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc {
+  margin: 0rem 10rem 10rem 10rem;
+  box-sizing: border-box;
+  padding: 9rem 7.6rem 25.8rem 5.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG {
+  margin-bottom: 13.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG .plugins-sWc {
+  margin-left: 5rem;
+  margin-bottom: 2.8rem;
+  font-size: 7rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.plugin-yuk-bisa {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.index-weU .auto-group-1pve-zxc .plugins-vrG .group-18-ov4 {
+  margin-bottom: 2.9rem;
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG .group-18-ov4 .group-13-ZPS {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2.8rem 1.3rem 2.8rem;
+  width: 38.2rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #280e31;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG .group-18-ov4 .group-14-zUk {
+  box-sizing: border-box;
+  padding: 3rem 2.8rem 3.2rem 2.8rem;
+  width: 100%;
+  background-color: #e1c7e9;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-18-ov4
+  .group-14-zUk
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG {
+  max-width: 108.9rem;
+  font-size: large;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-18-ov4
+  .group-14-zUk
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG-sub-0 {
+  font-size: large;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-18-ov4
+  .group-14-zUk
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG-sub-1 {
+  font-size: large;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-18-ov4
+  .group-14-zUk
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG
+  .qfieldsync-itu-kayak-asisten-pribadi-buat-lo-yang-kepengen-bawa-proyek-qgis-lo-ke-lapangan-pake-qfield-gak-perlu-pusing-pusing-plugin-ini-bakal-ngaturin-semuanya-mulai-dari-nyiapin-proyek-yang-bisa-dibawa-kemana-mana-sampai-bikin-peta-dasar-yang-cakep-tinggal-klik-klik-dia-bakal-bilang-apa-yang-harus-lo-lakuin-biar-proyek-lo-bisa-jalan-mulus-di-qfield-lumayan-kan-gak-perlu-mikir-keras-si-qfieldsync-udah-siap-bantuin-lo-7pG-sub-2 {
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG .group-19-MGg {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG .group-19-MGg .group-13-7Fr {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 4.2rem 1.3rem 4.2rem;
+  width: 38.2rem;
+  text-align: center;
+  font-size: x-large;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #280e31;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .plugins-vrG .group-19-MGg .group-14-mLQ {
+  box-sizing: border-box;
+  padding: 3.027rem 2.8rem 2.673rem 2.8rem;
+  width: 100%;
+  background-color: #e1c7e9;
+  border-radius: 2.1rem;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-19-MGg
+  .group-14-mLQ
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU {
+  max-width: 108.3rem;
+  font-size: large;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-19-MGg
+  .group-14-mLQ
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU-sub-0 {
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-19-MGg
+  .group-14-mLQ
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU-sub-1 {
+  font-size: large;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .plugins-vrG
+  .group-19-MGg
+  .group-14-mLQ
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU
+  .kalo-qgis2web-ini-sih-keren-banget-buat-lo-yang-mau-nunjukin-peta-lo-ke-seluruh-dunia-via-web-gak-usah-jadi-master-it-plugin-ini-otomatis-ubah-proyek-qgis-lo-jadi-peta-web-yang-bisa-dibuka-di-browser-pake-openlayers-atau-leaflet-dia-usahain-banget-buat-bawa-semua-yang-ada-di-qgis-lo-ke-web-termasuk-gaya-dan-tampilan-lapisan-lapisannya-tapi-yah-ada-kalanya-gak-semua-fitur-bisa-dikopi-sempurna-jadi-mungkin-lo-perlu-sedikit-ngoprek-kode-hasilnya-untuk-dapetin-yang-lo-mau-itu-sih-biasa-namanya-juga-kerja-kreatif-6tU-sub-2 {
+}
+.index-weU .auto-group-1pve-zxc .qfield-eKe {
+  margin: 0rem 2.274rem 0rem 4.774rem;
+  width: calc(100% - 7.0473rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .qfield-eKe .group-23-B4g {
+  margin: 0rem 29.726rem 10.5rem 29.626rem;
+  width: calc(100% - 59.3527rem);
+  height: 12.1rem;
+  text-align: center;
+  font-size: 7rem;
+  font-weight: 800;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(95.91deg, #5b9831 0%, #8eae24 100%);
+  border-radius: 5.4rem;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .qfield-eKe .frame-4-beC {
+  width: 90%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .qfield-eKe .frame-4-beC .auto-group-4kgq-L5z {
+  margin-bottom: 7.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .qfield-eKe
+  .frame-4-beC
+  .auto-group-4kgq-L5z
+  .auto-group-dsrp-Fik {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+
+.hp-uk-lah {
+  margin-right: 13rem;
+  width: 50rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.akhiran-cape{
+  margin: 0;
+  padding: 0;
+}
+
+.index-weU
+  .auto-group-1pve-zxc
+  .qfield-eKe
+  .frame-4-beC
+  .auto-group-4kgq-L5z
+  .item-5-Tpp {
+  width: 50rem;
+  height: 65rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-1pve-zxc .qfield-eKe .frame-4-beC .auto-group-7nva-1LY {
+  margin: 0 20.3237rem;
+  width: calc(100% - 40.6473rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .qfield-eKe
+  .frame-4-beC
+  .auto-group-7nva-1LY
+  .item-3-kZ2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-shrink: 0;
+    justify-content: center;
+}
+.index-weU
+  .auto-group-1pve-zxc
+  .qfield-eKe
+  .frame-4-beC
+  .auto-group-7nva-1LY
+  .item-2-VmW {
+  width: 30.7527rem;
+  height: 65rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.index-weU .auto-group-wuka-SRr {
+  width: 100%;
+  height: 16.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Nunito Sans, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e7c9f1;
+  flex-shrink: 0;
+}
